@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SLDD" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SLDW_ELEMENTS>
+    <SLDW_ELEMENTS>
+     <NAME>ZABAPGIT_SLDD_TEST</NAME>
+     <ENAME>TEST_ELEMENT_ONE</ENAME>
+     <E_STAT>X</E_STAT>
+    </SLDW_ELEMENTS>
+   </SLDW_ELEMENTS>
+   <SLDW_HEADER>
+    <SLDW_HEADER>
+     <NAME>ZABAPGIT_SLDD_TEST</NAME>
+     <STATUS>R</STATUS>
+     <SAL_MODE>N</SAL_MODE>
+     <DOKHL_ID>DT</DOKHL_ID>
+     <DOKHL_OBJ>SLDW_GEN_INFO</DOKHL_OBJ>
+     <E_MSGID>00</E_MSGID>
+     <E_MSGNO>001</E_MSGNO>
+    </SLDW_HEADER>
+   </SLDW_HEADER>
+   <SLDW_HEADERT>
+    <SLDW_HEADERT>
+     <SPRAS>E</SPRAS>
+     <NAME>ZABAPGIT_SLDD_TEST</NAME>
+     <TITLE>SLDD test</TITLE>
+    </SLDW_HEADERT>
+   </SLDW_HEADERT>
+  </asx:values>
+ </asx:abap>
+</abapGit>
