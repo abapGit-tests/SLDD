@@ -1,2 +1,2 @@
-# Template
-Template for abapGit CI Tests
+# SLDD test
+SLDD (Generic Whitelist) test
